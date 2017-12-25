@@ -16,5 +16,6 @@
         <property name="hbm2ddl.auto">update</property><!-- ddl控制 -->
         <mapping class="online.shixun.model.User"/>
         <mapping class="online.shixun.model.Order"/>
+        <mapping class="online.shixun.model.Commodity"/>
     </session-factory>
 </hibernate-configuration>
